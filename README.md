@@ -1,0 +1,1 @@
+# Exerc-cios-do-1-ao-6-python-para-mandar-pro-gabriel
